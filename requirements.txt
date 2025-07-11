@@ -2,8 +2,8 @@
 --extra-index-url https://download.pytorch.org/whl/torch_stable.html
 
 PyYAML==6.0.2
-torch==2.0.1+cpu
-torchaudio==2.0.2+cpu
+torch==2.0.1
+torchaudio==2.0.2
 
 antlr4-python3-runtime==4.9.3
 audioread==3.0.1
